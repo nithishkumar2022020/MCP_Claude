@@ -1,0 +1,13 @@
+# Miniconda installer
+Miniconda3-latest-MacOSX-arm64.sh
+
+# Python virtual environment
+.venv/
+
+# IDE files
+.idea/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
